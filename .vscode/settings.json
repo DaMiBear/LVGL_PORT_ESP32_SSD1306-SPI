@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "Default",
+  "files.associations": {
+    "*.tcc": "c",
+    "*.ipp": "c"
+  }
+}
